@@ -1,2 +1,2 @@
 # Test-repo
-Getting started on git hun
+Getting started on git hub
